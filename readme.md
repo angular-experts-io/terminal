@@ -13,4 +13,4 @@ Brought ot you by [Angular Experts](https://angularexperts.io), a team of Angula
 Learn from our free [Blog](https://angularexperts.io/blog) about all things Angular, NgRx, RxJs and NX
 and check out our [Workshops](https://angularexperts.io/workshops) and [Products](https://angularexperts.io/products) offer.
 
-![Angular Experts Consulting](angular-experts-banner.png)
+![Angular Experts Consulting](https://github.com/angular-experts-io/terminal/raw/master/angular-experts-banner.png)
