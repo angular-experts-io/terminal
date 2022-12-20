@@ -23,7 +23,7 @@
 2. Install one of the [Nerd Fonts](https://ohmyposh.dev/docs/installation/fonts)
 3. Enable [oh-my-posh prompt](https://ohmyposh.dev/docs/installation/prompt) for your shell
 4. Download the theme file `angularic.omp.json`
-5. **Enable Angularic theme, eg for fish it would be  `oh-my-posh init fish --config ~/path/to/theme/angularic.omp.json | source`**, check out docs for [other shells](angularic.omp.json)
+5. **Enable Angularic theme, eg for fish it would be  `oh-my-posh init fish --config ~/path/to/theme/angularic.omp.json | source`**, check out docs for [other shells](https://github.com/angular-experts-io/terminal/blob/master/oh-my-posh/themes/angularic.omp.json)
 
 # Troubleshooting
 
@@ -61,4 +61,4 @@ Brought ot you by [Angular Experts](https://angularexperts.io), a team of Angula
 Learn from our free [Blog](https://angularexperts.io/blog) about all things Angular, NgRx, RxJs and NX 
 and check out our [Workshops](https://angularexperts.io/workshops) and [Products](https://angularexperts.io/products) offer.
 
-![Angular Experts Consulting](../../angular-experts-banner.png)
+![Angular Experts Consulting](https://github.com/angular-experts-io/terminal/raw/master/angular-experts-banner.png)
